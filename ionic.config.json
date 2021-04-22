@@ -1,0 +1,8 @@
+{
+  "name": "AEventi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6b5e8eb9"
+}
